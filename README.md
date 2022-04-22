@@ -18,7 +18,9 @@ Haz click en el siguiente enlace para instalar el userscript:
 # Instrucciones de uso
 1. **Con el Userscript instalado y encendido**, entra al Dashboard Estudiantil y selecciona la opción de Histórico Académico en el panel izquierdo.
 2. Selecciona "Todos Los Niveles" y luego haz clic en Enviar para mostrar la página del histórico académico.
-3. Escribe el código de tu pensum (p.ej. ISO10, puedes obtener esto desde el [PensumExtractor](https://scydact.github.io/pensum-extractor/)), y haz clic en el botón que dice `"Descargar JSON para PensumExtractor"`
+3. Escribe el código de tu pensum (p.ej. ISO10, puedes obtener esto desde el [PensumExtractor](https://scydact.github.io/pensum-extractor/)), y haz clic en el botón que dice `"Descargar JSON para PensumExtractor"`<br />
+![Interfaz 1](https://raw.githubusercontent.com/GlitchyPSIX/UNAPECProjectionExtractor/dominant/github/1.png)
 4. Ve a PensumExtractor e introduce el código de carrera si no lo has hecho, luego haz clic en el botón de **Guardar/Cargar selección**
-5. Presiona el botón `Importar progreso.json` y selecciona ahí el archivo que descargaste en el paso 3.
+5. Presiona el botón `Importar progreso.json` y selecciona ahí el archivo que descargaste en el paso 3.<br />
+![Interfaz 2](https://raw.githubusercontent.com/GlitchyPSIX/UNAPECProjectionExtractor/dominant/github/2.png)
 6. Presiona Confirmar, y las materias en el PensumExtractor reflejarán el progreso del Histórico académico.
